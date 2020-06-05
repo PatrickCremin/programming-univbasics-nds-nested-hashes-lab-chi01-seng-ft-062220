@@ -8,6 +8,7 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 def assembled_aoh
   [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
+end
 
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
